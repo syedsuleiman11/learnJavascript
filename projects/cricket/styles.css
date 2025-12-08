@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+.cric-button{
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(34, 50, 199);
+    border-radius: 50px;
+    cursor: pointer;
+}
+.criz-button{
+    height: 75px;
+}
+.refresh-button{
+     height: 35px;
+}
+.re-button{
+    height: 45px;
+    width: 45px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(34, 50, 199);
+    border-radius: 58px;
+    cursor: pointer;
+}

@@ -1,0 +1,58 @@
+body{
+    background-color: blue;
+    text-align: center;
+}
+h1{
+    color: red;
+    font-family:  cursive;
+}
+p{
+    color: antiquewhite;
+    font-family: cursive;
+}
+a{
+    color: red;
+}
+.click{
+    color: red;
+    background-color: aqua;
+    font-family: cursive;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.click-me{
+    padding: 5px 45px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+.Wel{
+    color: burlywood;
+    font-family: sans-serif;
+}
+#greeting{
+    color: goldenrod;
+}
+#my-button{
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.odd{
+    background-color: brown;
+}
+.even{
+    background-color: chartreuse;
+}
+.btn{
+    color: red;
+    background-color: aqua;
+    font-family: cursive;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 10px;
+}
